@@ -123,6 +123,7 @@ body {
     /*-----======== 1st section style here ----========*/
 .feature-container{
     margin-top: 60px;
+
 }
 .feature-top {
     display: flex;
@@ -144,6 +145,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin-left: 60px;
 }
 .feature-top-heading h3 {
     font-weight: 500;
